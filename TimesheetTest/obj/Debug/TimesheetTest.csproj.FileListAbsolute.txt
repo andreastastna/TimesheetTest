@@ -1,0 +1,12 @@
+C:\Users\samand\Desktop\Timesheet test\TimesheetTest\TimesheetTest\bin\Debug\TimesheetTest.exe.config
+C:\Users\samand\Desktop\Timesheet test\TimesheetTest\TimesheetTest\bin\Debug\TimesheetTest.exe
+C:\Users\samand\Desktop\Timesheet test\TimesheetTest\TimesheetTest\bin\Debug\TimesheetTest.pdb
+C:\Users\samand\Desktop\Timesheet test\TimesheetTest\TimesheetTest\bin\Debug\EntityFramework.dll
+C:\Users\samand\Desktop\Timesheet test\TimesheetTest\TimesheetTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samand\Desktop\Timesheet test\TimesheetTest\TimesheetTest\bin\Debug\EntityFramework.xml
+C:\Users\samand\Desktop\Timesheet test\TimesheetTest\TimesheetTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samand\Desktop\Timesheet test\TimesheetTest\TimesheetTest\obj\Debug\TimesheetTest.csprojAssemblyReference.cache
+C:\Users\samand\Desktop\Timesheet test\TimesheetTest\TimesheetTest\obj\Debug\TimesheetTest.csproj.CoreCompileInputs.cache
+C:\Users\samand\Desktop\Timesheet test\TimesheetTest\TimesheetTest\obj\Debug\TimesheetTest.csproj.CopyComplete
+C:\Users\samand\Desktop\Timesheet test\TimesheetTest\TimesheetTest\obj\Debug\TimesheetTest.exe
+C:\Users\samand\Desktop\Timesheet test\TimesheetTest\TimesheetTest\obj\Debug\TimesheetTest.pdb
